@@ -95,9 +95,13 @@ p {
 }
 
 table {
-    width: 90%;
+    width: 95%;
     margin: auto;
-    border: 1px solid #000000;
+    border: none;
+}
+
+td {
+	border: none;
 }
 
 tr:nth-of-type(odd) {

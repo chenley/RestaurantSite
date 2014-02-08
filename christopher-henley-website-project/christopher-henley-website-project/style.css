@@ -134,3 +134,12 @@ color: #ffffff;
 .header2 {
 color: #ffffff;
 }
+
+.menu {
+	font-size: 30px;
+}
+
+.item {
+	text-align: center;
+	font-size: 25px;
+}

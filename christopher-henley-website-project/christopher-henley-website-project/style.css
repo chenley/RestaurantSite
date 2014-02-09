@@ -86,7 +86,13 @@ a:hover {
 }
 
 .content {
-    background-color: #FFFFFF;
+	background-image: url("images/content.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
     color: #000000;
     height: 25%;
     width: 75%;
@@ -154,3 +160,13 @@ tr:nth-of-type(odd) {
 	text-align: center;
 	font-size: 25px;
 }
+
+.entry {
+	background: #ffffff;
+	color: #000000;
+	margin: 0 auto;
+	padding: 3px;
+	height: 95%;
+	width: 90%; 
+}
+

@@ -30,6 +30,10 @@ h2 {
     color: #000000;
 }
 
+h3 {
+	color: #000000;
+	text-align: center;
+}
 #header {
 	background-image: url("images/header.png");
 	background-position: center;
@@ -118,7 +122,7 @@ tr:nth-of-type(odd) {
     width: 75%;
     margin: 0 auto;
     padding: 7px;
-    background: #FFFFFF;
+	background: #ffffff;
 }
 
 #foot {
